@@ -11,4 +11,3 @@ Message.create(content: 'Hello, world of coding!')
 Message.create(content: 'Saluton al la mondo de programado!')
 Message.create(content: 'Hola a todos los desarrolladores!')
 Message.create(content: 'Namaste, developers!')
-
