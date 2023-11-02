@@ -1,0 +1,2 @@
+web: /c/Ruby32/bin/ruby bin/rails server
+js: yarn build --watch
