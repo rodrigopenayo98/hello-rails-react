@@ -13,3 +13,26 @@
  *= require_tree .
  *= require_self
  */
+
+html{
+  background-color: blue;
+}
+
+body p{
+  background-color: blue;
+  font-size: larger;
+}
+
+pre{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: larger;
+}
+
+p{
+  font-size: larger;
+}
+
+.rdm-msj{
+  font-size: larger;
+}
+
