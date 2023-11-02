@@ -14,25 +14,20 @@
  *= require_self
  */
 
-html{
+html {
   background-color: blue;
 }
 
-body p{
+body p {
   background-color: blue;
   font-size: larger;
 }
 
-pre{
+pre {
   font-family: 'Courier New', Courier, monospace;
   font-size: larger;
 }
 
-p{
+.rdm-msj {
   font-size: larger;
 }
-
-.rdm-msj{
-  font-size: larger;
-}
-
