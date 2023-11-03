@@ -15,12 +15,15 @@
  */
 
 html {
-  background-color: blue;
+  background: rgb(0,212,255);
+  background: linear-gradient(311deg, rgba(0,212,255,1) 0%, rgba(97,255,202,1) 52%, rgba(0,212,255,1) 100%);
 }
 
-body p {
-  background-color: blue;
-  font-size: larger;
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 pre {
@@ -28,6 +31,7 @@ pre {
   font-size: larger;
 }
 
-.rdm-msj {
-  font-size: larger;
+.greeting-message {
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif
 }
