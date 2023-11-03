@@ -106,6 +106,16 @@ sh
   git clone https://github.com/rodrigopenayo98/hello-rails-react.git
 
 
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+foreman start -f Procfile.dev
+
+```
+  
+
 
 <!-- ### Install
 
@@ -123,21 +133,23 @@ sh
   npm run start
  -->
 
-### Run tests
+<!-- ### Run tests
 
 To run tests, run the following command:
 
-sh
-  rubocop -A
+```sh
+  
+```
+ -->
 
 
-### Run Linter Tests
+### Run Linter
 
 To run linter tests, run the following command:
 
-sh
+```sh
   rubocop -A
-
+```
 
 ## 👥 Author <a name="authors"></a>
 
